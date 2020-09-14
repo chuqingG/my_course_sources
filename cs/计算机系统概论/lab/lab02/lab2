@@ -1,0 +1,16 @@
+	.ORIG	x3000
+	ADD	R1,R0,#0	;R1存放R0原本的数值
+	LD	R2,HIGH		;R2起mask作用，保留最高位
+	AND	R0,R1,R2	;R0保持原来符号位，用于存放移动后的数
+	AND	R2,R2,#0	;R2用于按位运算  
+	ADD	R2,R2,#1	;对原数字从第二位开始
+LOOP1	ADD	R3,R2,R2	;R3对应移动前所处位数
+	BRz	FINAL
+	AND	R3,R1,R3	;按位运算，检测当前为是否为0
+	BRz	LOOP
+	ADD	R0,R0,R2	;将该位置1
+LOOP	ADD	R2,R2,R2	;移位操作向更高一位处理
+	BR	LOOP1
+FINAL	TRAP	x25
+HIGH	.FILL	x8000	
+	.END

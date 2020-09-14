@@ -1,0 +1,6 @@
+﻿  mwplus.cpp
+f:\计算机\数据结构\lab2mwp\lab2mwp\mwplus.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机\数据结构\lab2mwp\lab2mwp\mwplus.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机\数据结构\lab2mwp\lab2mwp\mwplus.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机\数据结构\lab2mwp\lab2mwp\mwplus.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+  lab2mwp.vcxproj -> F:\计算机\数据结构\lab2mwp\Debug\lab2mwp.exe

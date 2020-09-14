@@ -1,0 +1,9 @@
+
+****** Webtalk v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source H:/magic_code/lab7_1/lab7_1.hw/webtalk/labtool_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 91.801 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Thu Nov 21 21:05:46 2019...

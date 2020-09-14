@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511874450 source:c:\users\63107\desktop\金哲欣\大学\计算机\c\大作业\contacts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513166443 source:c:\users\63107\desktop\金哲欣\大学\计算机\程序设计1\作业\大作业\contacts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

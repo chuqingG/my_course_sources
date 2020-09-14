@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+H:/magic_code/lab7_step4__2/lab7_step4__2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sim_1/new/tb.v,1574309397,verilog,,,,tb,,,../../../../lab7_step4__2.srcs/sources_1/ip/clk_wiz_0,,,,,
+H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1574309778,verilog,,H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sources_1/new/test.v,,clk_wiz_0,,,../../../../lab7_step4__2.srcs/sources_1/ip/clk_wiz_0,,,,,
+H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1574309778,verilog,,H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../lab7_step4__2.srcs/sources_1/ip/clk_wiz_0,,,,,
+H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sources_1/new/test.v,1574309807,verilog,,H:/magic_code/lab7_step4__2/lab7_step4__2.srcs/sim_1/new/tb.v,,test,,,../../../../lab7_step4__2.srcs/sources_1/ip/clk_wiz_0,,,,,

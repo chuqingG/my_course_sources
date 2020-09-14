@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 21 18:10:33 2019
+# Process ID: 9852
+# Current directory: H:/magic_code/lab7_step6_1/lab7_step6_1.runs/impl_1
+# Command line: vivado.exe -log example1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source example1.tcl -notrace
+# Log file: H:/magic_code/lab7_step6_1/lab7_step6_1.runs/impl_1/example1.vdi
+# Journal file: H:/magic_code/lab7_step6_1/lab7_step6_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source example1.tcl -notrace
